@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/erzhigitwx/calculature-react/static/css/main.01052f8b.css",
-    "main.js": "/erzhigitwx/calculature-react/static/js/main.8122fae6.js",
-    "index.html": "/erzhigitwx/calculature-react/index.html",
-    "main.01052f8b.css.map": "/erzhigitwx/calculature-react/static/css/main.01052f8b.css.map",
-    "main.8122fae6.js.map": "/erzhigitwx/calculature-react/static/js/main.8122fae6.js.map"
+    "main.css": "/calculature-react/static/css/main.01052f8b.css",
+    "main.js": "/calculature-react/static/js/main.8122fae6.js",
+    "index.html": "/calculature-react/index.html",
+    "main.01052f8b.css.map": "/calculature-react/static/css/main.01052f8b.css.map",
+    "main.8122fae6.js.map": "/calculature-react/static/js/main.8122fae6.js.map"
   },
   "entrypoints": [
     "static/css/main.01052f8b.css",
