@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/erzhigitwx/calculature/static/css/main.01052f8b.css",
+    "main.js": "/erzhigitwx/calculature/static/js/main.8122fae6.js",
+    "index.html": "/erzhigitwx/calculature/index.html",
+    "main.01052f8b.css.map": "/erzhigitwx/calculature/static/css/main.01052f8b.css.map",
+    "main.8122fae6.js.map": "/erzhigitwx/calculature/static/js/main.8122fae6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01052f8b.css",
+    "static/js/main.8122fae6.js"
+  ]
+}
